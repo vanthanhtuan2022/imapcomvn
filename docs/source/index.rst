@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Tổng hợp game bắn cá đổi thưởng miễn phí hot nhất Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Bắn cá đổi thưởng <https://i-map.com.vn/>`_ là tựa game online đình đám nhất năm 2024. Với đồ họa sắc nét và lối chơi đơn giản, trò chơi mang đến trải nghiệm hấp dẫn với tỷ lệ nổ lớn và cược cao. Hoàn toàn miễn phí, người chơi có thể khám phá nhiều tính năng mới độc đáo, tăng thêm sự lôi cuốn và kịch tính khi tham gia.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 40/47B Nguyễn Giản Thanh, Phường 15, Quận 10, Hồ Chí Minh, Vietnam
 
-   This project is under active development.
+Phone: 0906897440
 
-Contents
---------
+Email: info@imap.com.vn
 
-.. toctree::
+Website: https://i-map.com.vn/
 
-   usage
-   api
+#bancadoithuong #gamebancadoithuong #gamebanca #bancadoithuongmienphi #gamebancadoithuongmienphi
